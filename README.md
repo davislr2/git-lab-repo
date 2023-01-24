@@ -1,2 +1,2 @@
-# git-lab-repo
+# hello-world
 Repository for the GitHub Hello World tutorial
